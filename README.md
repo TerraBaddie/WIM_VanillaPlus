@@ -1,3 +1,3 @@
-RENAME TO FOLDER TO WIM!
+RENAME THE DOWNLOADED FOLDER TO WIM!
 
 should go into WoW DIR \ \Interface\AddOns\
